@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="button_description">Take Picture</string>
+    <string name="image_content_description">There is a photo here</string>
+    <string name="description">Give the FUCKING PERMISSION</string>
+    <string name="positiveButton">GIVE</string>
+    <string name="negativeButton">DENY</string>
+</resources>
